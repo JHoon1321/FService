@@ -1,26 +1,14 @@
-<!--
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
+<%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions"%>
 
-=========================================================
-* Spaces - Bootstrap Directory Listing Template
-=========================================================
-
-* Product Page: https://themes.getbootstrap.com/product/spaces/
-* Copyright 2020 Themesberg EULA (https://themes.getbootstrap.com/licenses/)
-
-* Coded by https://themesberg.com
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
--->
-<!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <!-- Primary Meta Tags -->
-<title>Spaces - Sign in</title>
+<title>로그인하기</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="title" content="Spaces - Sign in">
 <meta name="author" content="Themesberg">

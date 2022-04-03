@@ -1,15 +1,13 @@
-package com.example.demo;
+package com.FS.main.controller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
-
+public class MainController {
+	
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
-		String str = "abcd";
-		System.out.println(str);
+		SpringApplication.run(MainController.class, args);
 	}
 
 }
